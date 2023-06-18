@@ -1,9 +1,15 @@
 import "./App.css";
+import Video from "./pages/Video"
 
 function App() {
   return (
     <div className="App">
-
+      <div className="appVideos">
+        <Video />
+        <Video />
+        <Video />
+        <Video />
+      </div>
     </div>
   );
 }

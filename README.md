@@ -8,5 +8,5 @@ Link
 
 Snap
 
-<img src="https://firebasestorage.googleapis.com/v0/b/tik-tok---jornada-f0309.appspot.com/o/tik-tok---jornada-f0309.web.app_(iPhone%20SE).png?alt=media&token=c62411fd-6f6b-4acd-9f58-91781c041534" />
+<img height="100px" src="https://firebasestorage.googleapis.com/v0/b/tik-tok---jornada-f0309.appspot.com/o/tik-tok---jornada-f0309.web.app_(iPhone%20SE).png?alt=media&token=c62411fd-6f6b-4acd-9f58-91781c041534" />
 

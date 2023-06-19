@@ -4,7 +4,7 @@ Projeto criado junto a semana da jornada fullstack da EBAC, foram abordadas as t
 
 Segue snap e link para acesso ao projeto
 
-Link 
+Link: https://tik-tok---jornada-f0309.web.app
 
 Snap
 
